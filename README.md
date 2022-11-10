@@ -1,4 +1,3 @@
-# digital-clock
 <h1>Digital Clock</h1>
 
 ![toGithub](https://user-images.githubusercontent.com/116846050/200061308-a4b42428-6eb6-497c-b0fe-e2ef75934644.png)
